@@ -115,3 +115,5 @@ grid.add_legend()
 
 ![output](./7.14.png)
 
+### RESULT
+Data Visualization on a complex dataset and save the data to a file has been performed.
